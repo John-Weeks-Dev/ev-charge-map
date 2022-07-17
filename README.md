@@ -40,6 +40,8 @@ See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-webpack/quas
   <img width="240" alt="Screenshot 2022-07-18 at 01 22 21" src="https://user-images.githubusercontent.com/108229029/179419560-a4a87147-b894-4fd5-8ed3-4752eda484f5.png">
 </p>
 
+# Route/Journey Section
+
 <p float="left">
   <img width="240" alt="Screenshot 2022-07-18 at 01 24 27" src="https://user-images.githubusercontent.com/108229029/179419595-37ec90b2-d924-467e-bacb-051a9b57cec5.png">
   <img width="240" alt="Screenshot 2022-07-18 at 01 25 08" src="https://user-images.githubusercontent.com/108229029/179419612-1fe05b0b-3df7-4fce-a665-4cb34fff8c5b.png">
@@ -47,7 +49,7 @@ See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-webpack/quas
   <img width="240" alt="Screenshot 2022-07-18 at 01 27 01" src="https://user-images.githubusercontent.com/108229029/179419669-35c55d27-5c73-4ab3-8f56-effb1618a4d7.png">
 </p>
 
-## Auth Login / Registration
+## Auth Login / Registration Section
 
 <p float="left">
   <img width="240" alt="Screenshot 2022-07-18 at 01 27 37" src="https://user-images.githubusercontent.com/108229029/179419711-9d921889-5eec-4af9-9595-a0beb78f8e7c.png">
@@ -60,8 +62,7 @@ See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-webpack/quas
 
 <p float="left">
   <img width="285" alt="Screenshot 2022-07-18 at 01 31 04" src="https://user-images.githubusercontent.com/108229029/179419838-85557f87-495f-4e7e-954f-c5b48669f01b.png">
-<img width="284" alt="Screenshot 2022-07-18 at 01 30 50" src="https://user-images.githubusercontent.com/108229029/179419840-f3919517-b73a-4dc3-82b5-e6cd492b21f9.png">
-<img width="283" alt="Screenshot 2022-07-18 at 01 30 38" src="https://user-images.githubusercontent.com/108229029/179419842-fff272db-b7ce-45be-ac4d-4e6fa3e2cfa6.png">
-
+  <img width="284" alt="Screenshot 2022-07-18 at 01 30 50" src="https://user-images.githubusercontent.com/108229029/179419840-f3919517-b73a-4dc3-82b5-e6cd492b21f9.png">
+  <img width="283" alt="Screenshot 2022-07-18 at 01 30 38" src="https://user-images.githubusercontent.com/108229029/179419842-fff272db-b7ce-45be-ac4d-4e6fa3e2cfa6.png">
 </p>
 
