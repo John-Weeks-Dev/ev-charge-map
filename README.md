@@ -22,6 +22,9 @@ yarn quasar dev --watch
 
 - [https://developers.google.com/maps/documentation/javascript/places](https://developers.google.com/maps/documentation/javascript/places).
 
+![Screenshot 2022-07-18 at 01 53 02](https://user-images.githubusercontent.com/108229029/179420621-633acc29-6579-4926-8733-f0a97403120e.png)
+
+
 ### For more info about Quasar go to this link
 - [https://quasar.dev/](https://quasar.dev/).
 
