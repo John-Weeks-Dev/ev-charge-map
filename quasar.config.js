@@ -52,8 +52,8 @@ module.exports = configure(function (ctx) {
     build: {
       env: {
         // For the local DB use API_PROD
-        GOOGLE_MAPS_API_KEY: 'AIzaSyCd8mpTkGzqbmJR0PqhSuPmtVPXTvU-I1A',
-        OPEN_MAPS_API_KEY: '225f10e6-5565-4a4c-a9f3-851641aa7aa8'
+        GOOGLE_MAPS_API_KEY: 'api-key',
+        OPEN_MAPS_API_KEY: 'api-key'
       },
       vueRouterMode: 'history', // available values: 'hash', 'history'
 
