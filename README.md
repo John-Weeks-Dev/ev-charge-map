@@ -31,6 +31,14 @@ yarn quasar dev --watch
 ### Customize the configuration
 - See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-webpack/quasar-config-js).
 
+# Application video demo
+
+
+
+https://user-images.githubusercontent.com/108229029/179421753-c6178e93-7070-4473-ac43-8228b53c5a5e.mp4
+
+
+
 # Application images/pages
 
 ## Map Section
