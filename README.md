@@ -18,24 +18,19 @@ For this frontend to work you'll need the backend/api section [Click Here](https
 yarn quasar dev --watch
 ```
 ### Api keys needed for the application
-- [https://openchargemap.org/site/develop#api](https://openchargemap.org/site/develop#api).
+- [https://openchargemap.org/site/develop#api](https://openchargemap.org/site/develop#api)
 
-- [https://developers.google.com/maps/documentation/javascript/places](https://developers.google.com/maps/documentation/javascript/places).
+- [https://developers.google.com/maps/documentation/javascript/places](https://developers.google.com/maps/documentation/javascript/places)
 
 ![Screenshot 2022-07-18 at 01 53 02](https://user-images.githubusercontent.com/108229029/179420621-633acc29-6579-4926-8733-f0a97403120e.png)
 
 
 ### For more info about Quasar go to this link
-- [https://quasar.dev/](https://quasar.dev/).
-
-### Customize the configuration
-- See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-webpack/quasar-config-js).
+- [https://quasar.dev/](https://quasar.dev/)
 
 # Application video demo
 
-
-https://user-images.githubusercontent.com/108229029/179422082-301337d2-9e49-4373-8a27-e4c0d6f84910.mp4
-
+https://user-images.githubusercontent.com/108229029/179422705-897033cb-ae9d-4781-80f4-9d0010e6c9ee.mp4
 
 # Application images/pages
 
