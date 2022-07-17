@@ -9,19 +9,24 @@ yarn
 npm install
 ```
 
+## Note
+For this frontend to work you'll need the backend/api section [Click Here](https://github.com/John-Weeks-Dev/ev-charge-map-api)
+
+
 ### Start the app in development mode (hot-code reloading, error reporting, etc.)
 ```bash
 yarn quasar dev --watch
 ```
 ### Api keys needed for the application
-[https://openchargemap.org/site/develop#api](https://openchargemap.org/site/develop#api).
-[https://developers.google.com/maps/documentation/javascript/places](https://developers.google.com/maps/documentation/javascript/places).
+- [https://openchargemap.org/site/develop#api](https://openchargemap.org/site/develop#api).
+
+- [https://developers.google.com/maps/documentation/javascript/places](https://developers.google.com/maps/documentation/javascript/places).
 
 ### For more info about Quasar go to this link
-[https://quasar.dev/](https://quasar.dev/).
+- [https://quasar.dev/](https://quasar.dev/).
 
 ### Customize the configuration
-See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-webpack/quasar-config-js).
+- See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-webpack/quasar-config-js).
 
 # Application images/pages
 
