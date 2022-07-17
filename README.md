@@ -30,7 +30,11 @@ yarn quasar dev --watch
 
 # Application video demo
 
-https://user-images.githubusercontent.com/108229029/179422705-897033cb-ae9d-4781-80f4-9d0010e6c9ee.mp4
+
+
+https://user-images.githubusercontent.com/108229029/179423110-60f05e87-2b3f-41dc-abb4-4fdef83b6daa.mp4
+
+
 
 # Application images/pages
 
