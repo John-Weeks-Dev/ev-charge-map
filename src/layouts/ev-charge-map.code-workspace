@@ -1,0 +1,10 @@
+{
+    "folders": [
+        {
+            "path": "../.."
+        },
+        {
+            "path": "../../../ev-charge-map-api"
+        }
+    ]
+}
