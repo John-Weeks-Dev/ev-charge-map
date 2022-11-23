@@ -10,6 +10,10 @@ Come and check out my YOUTUBE channel for lots more tutorials -> https://www.you
 
 **LIKE**, **SUBSCRIBE**, and **SMASH THE NOTIFICATION BELL**!!!
 
+# Application video demo
+
+https://user-images.githubusercontent.com/108229029/179423135-feeb78d5-0991-4875-8dae-440afdc82d28.mp4
+
 ## Frontend setup
 
 ## Install the dependencies
@@ -37,10 +41,6 @@ yarn quasar dev --watch
 
 ### For more info about Quasar go to this link
 - [https://quasar.dev/](https://quasar.dev/)
-
-# Application video demo
-
-https://user-images.githubusercontent.com/108229029/179423135-feeb78d5-0991-4875-8dae-440afdc82d28.mp4
 
 
 # Application images/pages
