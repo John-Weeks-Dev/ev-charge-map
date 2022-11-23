@@ -16,32 +16,36 @@ https://user-images.githubusercontent.com/108229029/179423135-feeb78d5-0991-4875
 
 ## Frontend setup
 
-## Install the dependencies
-```bash
-yarn
-# or
-npm install
-```
-
-## Note
+### Note
 For this frontend to work you'll need the backend/api section -> https://github.com/John-Weeks-Dev/ev-charge-map-api
 
+You'll need to install the Quasar CLI tool -> https://quasar.dev/start/pick-quasar-flavour
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
-yarn quasar dev --watch
+Clone the repository
 ```
-### Api keys needed for the application
-- [https://openchargemap.org/site/develop#api](https://openchargemap.org/site/develop#api)
+git clone https://github.com/John-Weeks-Dev/ev-charge-map.git
+```
 
-- [https://developers.google.com/maps/documentation/javascript/places](https://developers.google.com/maps/documentation/javascript/places)
+Go to https://console.cloud.google.com/ and generate an API KEY. 
+
+You'll need to enable the Maps API, Places API, Directions API, and Distance Matrix API.
+
+Now go to https://openchargemap.org and generate an API KEY. 
+
+Now add the new API KEYS in to **quasar.config.js**
 
 ![Screenshot 2022-07-18 at 01 53 02](https://user-images.githubusercontent.com/108229029/179420621-633acc29-6579-4926-8733-f0a97403120e.png)
 
+Now do
+```
+cd ev-charge-map
 
-### For more info about Quasar go to this link
-- [https://quasar.dev/](https://quasar.dev/)
+npm i
 
+yarn quasar dev --watch
+```
+
+You should be good to go!
 
 # Application images/pages
 
