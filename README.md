@@ -1,6 +1,16 @@
 # EV Charge Map (ev-charge-map)
 
-Ev charging stations show on a map
+### Tutorial series on how to build this
+
+If you'd like a step by step guide on how to build this just **CLICK THE IMAGE BELOW**
+
+[![Follow Mohamed El-Qassas GitHub](https://user-images.githubusercontent.com/108229029/203494132-c95e7b90-2b19-4dbb-b090-19a74b587e26.jpg)](https://www.youtube.com/watch?v=4grSddYyZio&list=PL3pX4NAc7vJswKOWNO2kVobd-b2RiOOlY)
+
+Come and check out my YOUTUBE channel for lots more tutorials -> https://www.youtube.com/@johnweeksdev
+
+**LIKE**, **SUBSCRIBE**, and **SMASH THE NOTIFICATION BELL**!!!
+
+## Frontend setup
 
 ## Install the dependencies
 ```bash
@@ -10,7 +20,7 @@ npm install
 ```
 
 ## Note
-For this frontend to work you'll need the backend/api section [Click Here](https://github.com/John-Weeks-Dev/ev-charge-map-api)
+For this frontend to work you'll need the backend/api section -> https://github.com/John-Weeks-Dev/ev-charge-map-api
 
 
 ### Start the app in development mode (hot-code reloading, error reporting, etc.)
@@ -29,7 +39,6 @@ yarn quasar dev --watch
 - [https://quasar.dev/](https://quasar.dev/)
 
 # Application video demo
-
 
 https://user-images.githubusercontent.com/108229029/179423135-feeb78d5-0991-4875-8dae-440afdc82d28.mp4
 
