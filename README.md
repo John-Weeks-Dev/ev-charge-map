@@ -4,7 +4,7 @@
 
 If you'd like a step by step guide on how to build this just **CLICK THE IMAGE BELOW**
 
-[![Follow Mohamed El-Qassas GitHub](https://user-images.githubusercontent.com/108229029/203494132-c95e7b90-2b19-4dbb-b090-19a74b587e26.jpg)](https://www.youtube.com/watch?v=4grSddYyZio&list=PL3pX4NAc7vJswKOWNO2kVobd-b2RiOOlY)
+[![GO TO JOHN WEEKS DEV TUTORIAL VIDEOS](https://user-images.githubusercontent.com/108229029/203494132-c95e7b90-2b19-4dbb-b090-19a74b587e26.jpg)](https://www.youtube.com/watch?v=4grSddYyZio&list=PL3pX4NAc7vJswKOWNO2kVobd-b2RiOOlY)
 
 Come and check out my YOUTUBE channel for lots more tutorials -> https://www.youtube.com/@johnweeksdev
 
